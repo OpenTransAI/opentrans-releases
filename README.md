@@ -39,7 +39,7 @@ sha256sum -c SHA256SUMS.txt
 
 OpenTrans 浏览器扩展的安装包发布页。推荐从 [Chrome 网上应用店](https://chromewebstore.google.com/detail/opentrans-ai-writing-repl/ofdhabdokffjaklkckmkiiefnffehkgm) 或 [Edge 加载项](https://microsoftedge.microsoft.com/addons/detail/mlakkdajodfegnecmbgagfigiihmlapa) 安装，可自动更新。
 
-手动安装：在 [官网](https://getopentrans.com) 下载对应浏览器的 zip 并解压，打开 `chrome://extensions` 或 `edge://extensions`，开启「开发者模式」，点「加载已解压的扩展程序」选择解压后的文件夹。手动安装的版本不会自动更新。
+手动安装：在 [官网](https://getopentrans.com) 下载对应浏览器的 zip 并解压，打开 `chrome://extensions` 或 `edge://extensions`，开启「开发者模式」，点「加载已解压的扩展程序」选择解压后的文件夹。手动安装的版本不会自动更新
 
 ## Links
 
